@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\ProjectApache\publish\ProjectApache.exe
+C:\Users\HP\source\repos\ProjectApache\publish\appsettings.Development.json
+C:\Users\HP\source\repos\ProjectApache\publish\appsettings.json
+C:\Users\HP\source\repos\ProjectApache\publish\ProjectApache.dll
+C:\Users\HP\source\repos\ProjectApache\publish\ProjectApache.deps.json
+C:\Users\HP\source\repos\ProjectApache\publish\ProjectApache.runtimeconfig.json
+C:\Users\HP\source\repos\ProjectApache\publish\ProjectApache.pdb
+C:\Users\HP\source\repos\ProjectApache\publish\Microsoft.OpenApi.dll
+C:\Users\HP\source\repos\ProjectApache\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\source\repos\ProjectApache\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\source\repos\ProjectApache\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
